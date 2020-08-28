@@ -1,2 +1,0 @@
-# Dorm
-Dorm Management system
