@@ -1,4 +1,4 @@
-Dormitory Managemnet System
+Dormitory Management System
 
 We have decided to make this project in order to solve the problem that we, as a new students have to face. When someone new arrives at a new 
 dormitory, the application would show him some of the friends from his country so that he/she would have someone to talk to and ask for 
